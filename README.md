@@ -1,2 +1,4 @@
-# django-cheat-sheet
-Django Cheat Sheet
+**Clear an Entire Database**
+
+    ./manage.py sqlflush | ./manage.py dbshell
+    
